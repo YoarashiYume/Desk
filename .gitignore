@@ -1,0 +1,6 @@
+#file ignoring
+*.doc
+*.docx
+*.php
+#folders ignoring
+logs/
